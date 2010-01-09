@@ -2,11 +2,11 @@
 
 = Introduction =
 
-This page should help you to work with the pomodoro excel timer and understand the way the software should be used to be productive as much as possible. 
+This page should help you to work with the pomodoro excel timer and understand the way the software should be used to be productive as much as possible. For a complete understanding of the pomodoro time management technique please go to this web site: http://www.pomodorotechnique.com/
 
 
-= Details =
-
+= How to use the software =
+First of all macros should be enabled to use the software. When the pomodoro excel timer worksheet is open you can see three separate worksheets at the bottom named "Timer", "Activity Inventory", and "Pomodoro Record". The Timer-sheet is what you will work with most of the time. It includes the  
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
