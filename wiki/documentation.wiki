@@ -1,0 +1,13 @@
+#summary Dokumentation for the pomodoro excel timer
+
+= Introduction =
+
+This page should help you to work with the pomodoro excel timer and understand the way the software should be used to be productive as much as possible. 
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
