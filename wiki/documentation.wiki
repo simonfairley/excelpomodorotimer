@@ -6,7 +6,7 @@ This page should help you to work with the pomodoro excel timer and understand t
 
 
 = How to use the software =
-First of all macros should be enabled to use the software. When the pomodoro excel timer worksheet is open you can see three separate worksheets at the bottom named "Timer", "Activity Inventory", and "Pomodoro Record". The Timer-sheet is what you will work with most of the time. It includes the  
+First of all macros should be enabled to use the software. When the pomodoro excel timer worksheet is open you can see three separate worksheets at the bottom named "Timer", "Activity Inventory", and "Pomodoro Record". The Timer-sheet is what you will work with most of the time. It includes a simple timer a list containing activities you want to do today and a list where you can put urgent tasks. To start a pomodoro select a cell in a row of the to do today list or the urgen tasks list and click the start button. 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
